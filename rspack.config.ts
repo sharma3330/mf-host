@@ -30,7 +30,7 @@ export default defineConfig({
     // You need to set a unique value that is not equal to other applications
     uniqueName: "mf_host",
     // publicPath must be configured if using manifest
-    publicPath: "http://localhost:8080/",
+    publicPath: "https://mf-host-git-main-sharma3330s-projects.vercel.app/",
   },
 
   experiments: {
